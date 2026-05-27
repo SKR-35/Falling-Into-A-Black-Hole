@@ -32,7 +32,7 @@ This project explores what **falling toward a Schwarzschild black hole** might *
 - ISCO reference (`3 Rs`)
 - Approximate gravitational lensing / Einstein-ring effect
 - Approximate gravitational redshift
-- **Visible Doppler / relativistic beaming effect**
+- Visible Doppler / relativistic beaming effect
 - Accretion disk rendering
 - Star streaking during close approach
 - Tunnel vision / gravitational vignette near the horizon
